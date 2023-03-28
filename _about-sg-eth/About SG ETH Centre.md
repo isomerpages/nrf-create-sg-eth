@@ -3,6 +3,8 @@ title: About SG ETH Centre
 permalink: /about-sg-eth/about-sg-eth-centre/
 description: ""
 ---
+![](/images/sec_300-ppi3bf589c9e78e45bf82826c83248036a8.jpg)
+
 The Singapore-ETH Centre was established in Singapore in 2010 by ETH Zurich – the Swiss Federal Institute of Technology Zurich and the National Research Foundation, as part of NRF’s CREATE campus. Based in Singapore, the centre is the only research centre by ETH Zurich outside of Switzerland.
 
 Set in Asia, in a rapidly urbanising region, the Singapore-ETH Centre aims to provide practical solutions to some of the most pressing challenges on urban sustainability, resilience and health through its programmes: [Future Cities Lab Global (FCL Global)](http://www.fcl.ethz.ch/), [Future Resilient Systems (FRS),](http://www.frs.ethz.ch/) and [Future Health Technologies (FHT)](https://fht.ethz.ch/).
@@ -45,3 +47,6 @@ The programme works closely with [local agencies, industry and clinical partner
 The programme combines technologies such as big data, artificial intelligence and robotics to develop holistic mobile digital health solutions designed to carry clinical intelligence beyond the hospital.   
   
 Its research focuses on moving towards future-oriented and sustainable healthcare models, and address health-related data challenges from a systemic perspective.
+
+**[Singapore-ETH Centre fact sheet](/files/SEC_Factsheet_Mar_2022.pdf)**
+
