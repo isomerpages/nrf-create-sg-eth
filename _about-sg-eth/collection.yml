@@ -2,6 +2,6 @@ collections:
   about-sg-eth:
     output: true
     order:
-      - folder-page.md
+      - About SG ETH Centre.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
