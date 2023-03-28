@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: SG-ETH CENTRE
+agency_name: Singapore-ETH CENTRE
 locations:
   - address:
       - 1 CREATE Way
