@@ -58,7 +58,7 @@ Its research focuses on moving towards future-oriented and sustainable healthcar
 [Future Resilient Systems](http://www.frs.ethz.ch/)  
 [Future Health Technologies](http://www.fht.ethz.ch/)
 
-****Publications****
+**Publications**
 
 [Future Cities Lab Global](https://fcl.ethz.ch/Publications.html)   
 [Future Resilient Systems](https://frs.ethz.ch/resources.html)  
