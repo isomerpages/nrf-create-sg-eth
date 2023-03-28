@@ -50,3 +50,15 @@ Its research focuses on moving towards future-oriented and sustainable healthcar
 
 **[Singapore-ETH Centre fact sheet](/files/SEC_Factsheet_Mar_2022.pdf)**
 
+**Visit our websites**
+
+[Singapore-ETH Centre](http://www.sec.ethz.ch/)  
+[Future Cities Lab Global](http://www.fcl.ethz.ch/)   
+[Future Resilient Systems](http://www.frs.ethz.ch/)  
+[Future Health Technologies](http://www.fht.ethz.ch/)
+
+****Publications****
+
+[Future Cities Lab Global](https://fcl.ethz.ch/Publications.html)   
+[Future Resilient Systems](https://frs.ethz.ch/resources.html)  
+[Future Health Technologies](https://fht.ethz.ch/publications.html)
