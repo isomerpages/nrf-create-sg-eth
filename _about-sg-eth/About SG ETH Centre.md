@@ -48,6 +48,7 @@ The programme combines technologies such as big data, artificial intelligence an
   
 Its research focuses on moving towards future-oriented and sustainable healthcare models, and address health-related data challenges from a systemic perspective.
 
+![](/images/Screenshot%202023-03-28%20183833.png)
 **[Singapore-ETH Centre fact sheet](/files/SEC_Factsheet_Mar_2022.pdf)**
 
 **Visit our websites**
