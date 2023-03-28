@@ -1,5 +1,5 @@
 collections:
-  about-sg-eth:
+  singapore-eth-centre:
     output: true
     order:
       - About SG ETH Centre.md
