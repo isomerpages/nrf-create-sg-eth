@@ -51,6 +51,16 @@ Its research focuses on moving towards future-oriented and sustainable healthcar
 **[Singapore-ETH Centre fact sheet](/files/SEC_Factsheet_Mar_2022.pdf)**
 ![](/images/Screenshot%202023-03-28%20183833.png)
 
+**Contact us**
+Email: info(at)sec.ethz.ch  
+[LinkedIn](https://www.linkedin.com/company/singapore-eth-centre) 
+
+**Where to find us**
+Singapore-ETH Centre  
+1 CREATE Way,  
+CREATE Tower, #06-01  
+Singapore 138602
+
 **Visit our websites**
 
 [Singapore-ETH Centre](http://www.sec.ethz.ch/)  
