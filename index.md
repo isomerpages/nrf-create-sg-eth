@@ -16,6 +16,5 @@ sections:
       key_highlights:
         - title: About SG-ETH
           description: ""
-          url: /about-sg-eth/about-sg-eth-centre/
+          url: /about-create/research-centres/sec/
 ---
-
