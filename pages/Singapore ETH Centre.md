@@ -39,10 +39,27 @@ FRS contributes to a paradigm shift by
 [Future Health Technologies (FHT)](https://fht.ethz.ch/)
 --------------------------------------------------------
 
-Established in 2020 as the third programme of the Singapore-ETH Centre, FHT develops a future-oriented mobile digital health concept which combines scientific and technological innovations with clinical, industry and other stakeholder needs. The programme tackles care for the increasing number of patients suffering from chronic diseases, particularly diabetes, obesity and stroke. Leveraging on scalable digital technologies, the team aims to transform the healthcare system towards a community-based and patient-centric model along the continuum of care.
+Established in 2020 as the third programme of the Singapore-ETH Centre, FHT develops a future-oriented mobile digital health concept which combines scientific and technological innovations with clinical, industry and other stakeholder needs. The programme tackles care for the increasing number of patients suffering from chronic diseases, particularly diabetes, obesity and stroke. Leveraging on scalable digital technologies, the team aims to transform the healthcare system towards a community-based and patient-centric model along the continuum of care.  
+  
+The programme works closely with [local agencies, industry and clinical partners](https://www.create.edu.sg/partners.html) to ensure that new tools are applicable to the individual and their social environment, healthcare professionals and healthcare providers, and can be integrated into Singapore's healthcare delivery workflow.   
+  
 
-The programme works closely with [local agencies, industry and clinical partners](https://www.create.edu.sg/partners.html) to ensure that new tools are applicable to the individual and their social environment, healthcare professionals and healthcare providers, and can be integrated into Singapore’s healthcare delivery workflow. 
-
-The programme combines technologies such as big data, artificial intelligence and robotics to develop holistic mobile digital health solutions designed to carry clinical intelligence beyond the hospital. 
-
+The programme combines technologies such as big data, artificial intelligence and robotics to develop holistic mobile digital health solutions designed to carry clinical intelligence beyond the hospital.   
+  
 Its research focuses on moving towards future-oriented and sustainable healthcare models, and address health-related data challenges from a systemic perspective.
+
+**[Singapore-ETH Centre fact sheet](/files/SEC_Factsheet_Mar_2022.pdf)**
+![](/images/Screenshot%202023-03-28%20183833.png)
+
+**Visit our websites**
+
+[Singapore-ETH Centre](http://www.sec.ethz.ch/)  
+[Future Cities Lab Global](http://www.fcl.ethz.ch/)   
+[Future Resilient Systems](http://www.frs.ethz.ch/)  
+[Future Health Technologies](http://www.fht.ethz.ch/)
+
+**Publications**
+
+[Future Cities Lab Global](https://fcl.ethz.ch/Publications.html)   
+[Future Resilient Systems](https://frs.ethz.ch/resources.html)  
+[Future Health Technologies](https://fht.ethz.ch/publications.html)
