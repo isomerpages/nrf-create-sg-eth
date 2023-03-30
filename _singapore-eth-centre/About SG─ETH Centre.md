@@ -3,8 +3,6 @@ title: About SG─ETH Centre
 permalink: /about-sg-eth/about-sg-eth-centre/
 description: ""
 ---
-
-
 ![](/images/sec_300-ppi3bf589c9e78e45bf82826c83248036a8.jpg)
 
 Create-SEC The Singapore-ETH Centre was established in Singapore in 2010 by ETH Zurich – the Swiss Federal Institute of Technology Zurich and the National Research Foundation, as part of NRF’s CREATE campus. Based in Singapore, the centre is the only research centre by ETH Zurich outside of Switzerland.
@@ -51,7 +49,6 @@ The programme combines technologies such as big data, artificial intelligence an
 Its research focuses on moving towards future-oriented and sustainable healthcare models, and address health-related data challenges from a systemic perspective.
 
 **[Singapore-ETH Centre fact sheet](/files/SEC_Factsheet_Mar_2022.pdf)**
-![](/images/Screenshot%202023-03-28%20183833.png)
 
 **Visit our websites**
 
