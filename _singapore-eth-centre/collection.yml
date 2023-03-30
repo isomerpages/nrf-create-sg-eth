@@ -2,4 +2,5 @@ collections:
   singapore-eth-centre:
     output: true
     order:
+      - Singapore─ETH Centre.md
       - About SG─ETH Centre.md
