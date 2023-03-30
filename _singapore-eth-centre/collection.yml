@@ -1,5 +1,4 @@
 collections:
   singapore-eth-centre:
     output: true
-    order:
-      - Singapore─ETH Centre.md
+    order: []
