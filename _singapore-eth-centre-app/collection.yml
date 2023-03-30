@@ -1,5 +1,5 @@
 collections:
-  singapore-eth-centre:
+  singapore-eth-centre-app:
     output: true
     order:
       - About Singapore─ETH Centre.md
