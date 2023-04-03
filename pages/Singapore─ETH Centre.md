@@ -3,10 +3,6 @@ title: Singapore─ETH Centre
 permalink: /about-create/research-centres/sec/
 description: ""
 ---
-
-
-
-
 ![](/images/sec_300-ppi3bf589c9e78e45bf82826c83248036a8.jpg)
 
 The Singapore-ETH Centre was established in Singapore in 2010 by ETH Zurich – the Swiss Federal Institute of Technology Zurich and the National Research Foundation, as part of NRF’s CREATE campus. Based in Singapore, the centre is the only research centre by ETH Zurich outside of Switzerland.
@@ -15,7 +11,7 @@ Set in Asia, in a rapidly urbanising region, the Singapore-ETH Centre aims to pr
 
 The centre serves as an intellectual hub for research, bringing together principal investigators and researchers from diverse disciplines and backgrounds. It actively collaborates with universities and research institutes, and engages with industry and government agencies to translate knowledge to practical solutions to real-world problems.
 
-It also works with [partner universities and government agencies](https://www.create.edu.sg/partners.html) to tackle challenges such as the urban heat island effects through the [Cooling Singapore](https://sec.ethz.ch/research/cs.html) project, conservation of nature through the Natural Capital Singapore project, and mapping sub-surface utilities in Singapore through the [Digital Underground](https://sec.ethz.ch/research/digital-underground.html) project.
+It also works with [partner universities and government agencies](https://sec.ethz.ch/partners.html) to tackle challenges such as the urban heat island effects through the [Cooling Singapore](https://sec.ethz.ch/research/cs.html) project, conservation of nature through the Natural Capital Singapore project, and mapping sub-surface utilities in Singapore through the [Digital Underground](https://sec.ethz.ch/research/digital-underground.html) project.
 
 **[Future Cities Lab (FCL) Global](https://fcl.ethz.ch/)**
 ----------------------------------------------------------
@@ -45,7 +41,7 @@ FRS contributes to a paradigm shift by
 
 Established in 2020 as the third programme of the Singapore-ETH Centre, FHT develops a future-oriented mobile digital health concept which combines scientific and technological innovations with clinical, industry and other stakeholder needs. The programme tackles care for the increasing number of patients suffering from chronic diseases, particularly diabetes, obesity and stroke. Leveraging on scalable digital technologies, the team aims to transform the healthcare system towards a community-based and patient-centric model along the continuum of care.  
   
-The programme works closely with [local agencies, industry and clinical partners](https://www.create.edu.sg/partners.html) to ensure that new tools are applicable to the individual and their social environment, healthcare professionals and healthcare providers, and can be integrated into Singapore's healthcare delivery workflow.   
+The programme works closely with [local agencies, industry and clinical partners](https://fht.ethz.ch/partners.html) to ensure that new tools are applicable to the individual and their social environment, healthcare professionals and healthcare providers, and can be integrated into Singapore's healthcare delivery workflow.   
   
 
 The programme combines technologies such as big data, artificial intelligence and robotics to develop holistic mobile digital health solutions designed to carry clinical intelligence beyond the hospital.   
